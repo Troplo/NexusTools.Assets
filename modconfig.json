@@ -1,0 +1,10 @@
+{
+    "friendlyId": "tnt_assets",
+    "name": "NexusTools Assets",
+    "author": "Troplo",
+    "description": "Important assets for NexusTools. Please leave enabled.",
+    "packs": ["tnt_assets"],
+    "configVersion": 1,
+    "version": "0.9.4",
+    "modProfileUrl": "https://www.nexusmods.com/watchdogs/mods/491"
+}
